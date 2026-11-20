@@ -1,2 +1,3 @@
-# Manish
-Math with Manish – Handwritten Notes website
+# Math with Manish
+
+Live website for handwritten notes.
